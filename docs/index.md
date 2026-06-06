@@ -1,12 +1,9 @@
-### 💡《天涯神贴》知识库。
+### 💡游戏宝库下载
 
 **为了避免遗忘、便于分享，我在这里收录。**
 
 **资源比较珍贵，这里免费转存，以防失效，扫描下方二维码，尽快转存吧！如果资源链接失效了，留言板留言，站长会及时更新！**
 
-**扫二维码转存**（截图下方二维码，微信/QQ/夸克网盘APP 扫码后转存即可获取）
-
-![img](images/kuake.png)
 
 ### 🙏打赏
 
@@ -14,14 +11,8 @@
 
 ![img](images/sponsor.jpg)
 
-
-### 让自己旺旺旺 十个潜规则
-
-<iframe width="500" height="280" src="images/wangwangwang.mp4" frameborder="0" allowfullscreen></iframe>
-
 ---
 
-<script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
+<script charset="UTF-8" id="LA_COLLECT" src="https://sdk.51.la/js-sdk-pro.min.js"></script>
+
 <script>LA.init({id:"L0ZDlWY6HhH0NxKi",ck:"L0ZDlWY6HhH0NxKi"})</script>
-
-
