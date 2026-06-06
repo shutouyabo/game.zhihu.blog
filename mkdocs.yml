@@ -1,13 +1,13 @@
-site_name: 天涯神贴大合集
-site_url: https://tianyashentie.zhihu.blog/
+site_name: 游戏宝库下载
+site_url: https://game.zhihu.blog/
 site_author: shutouyabo
 site_description: >-
-  wiki tianya
+  wiki game
 
 repo_name: 天涯神贴
-repo_url: https://github.com/shutouyabo/tianyashentie/
+repo_url: https://github.com/shutouyabo/game.zhihu.blog/
 
-copyright: Copyright &copy; 2026 <a href="https://tianya.zhihu.blog/" target="_blank" rel="noopener noreferrer">天涯神贴</a>
+copyright: Copyright &copy; 2026 <a href="https://game.zhihu.blog/" target="_blank" rel="noopener noreferrer">游戏宝库下载</a>
 
 
 
@@ -85,11 +85,11 @@ extra:
 
 nav:
   - 前言: "index.md"
-  - 1 - 天涯神贴210:
-      - "天涯神贴210（1-50篇）": "1 - 天涯神贴210/天涯神贴210（1-50篇）.md"
-      - "天涯神贴210（51-100篇）": "1 - 天涯神贴210/天涯神贴210（51-100篇）.md"
-      - "天涯神贴210（101-150篇）": "1 - 天涯神贴210/天涯神贴210（101-150篇）.md"
-      - "天涯神贴210（151-194篇）": "1 - 天涯神贴210/天涯神贴210（151-194篇）.md"
+  - 1 动作冒险:
+      - "天涯神贴210（1-50篇）": "1 动作冒险/天涯神贴210（1-50篇）.md"
+      - "天涯神贴210（51-100篇）": "1 动作冒险/天涯神贴210（51-100篇）.md"
+      - "天涯神贴210（101-150篇）": "1 动作冒险/天涯神贴210（101-150篇）.md"
+      - "天涯神贴210（151-194篇）": "1 动作冒险/天涯神贴210（151-194篇）.md"
   - 2 - 蓬莱鬼话、玄幻灵异、中医命理:
       - "蓬莱鬼话、玄幻灵异、中医命理 1-37篇": "2 - 蓬莱鬼话、玄幻灵异、中医命理/蓬莱鬼话、玄幻灵异、中医命理 1-37篇.md"
   - 3 - 金融财经、股市楼市、经济预测:
